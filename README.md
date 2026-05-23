@@ -5,6 +5,7 @@ This repository provides the official code and evaluation tools for VisReason, i
 ## 📢 News
 
 
+
 ## ✅ TODO
 
 - Release the full dataset on Hugging Face.
@@ -12,7 +13,8 @@ This repository provides the official code and evaluation tools for VisReason, i
 - Add citation information.
 - Add license information.
 
-<sub>This repository hosts the latest testing version. For the stable official release, please visit [CASIA-IVA-Lab/VisReason](https://github.com/CASIA-IVA-Lab/VisReason).</sub>
+<sub>This repository hosts the stable official release. For the latest testing version, please visit [YifanWang-Lingf/VisReason](https://github.com/YifanWang-Lingf/VisReason).</sub>
+
 
 ## 👀 Overview
 
