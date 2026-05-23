@@ -15,7 +15,7 @@ This repository provides the official code and evaluation tools for VisReason, i
 - Add citation information.
 - Add license information.
 
-<sub>This repository hosts the stable official release. For the latest testing version, please visit [YifanWang-Lingf/VisReason](https://github.com/YifanWang-Lingf/VisReason).</sub>
+<sub>This repository hosts the stable official release. For the testing version, please visit [YifanWang-Lingf/VisReason](https://github.com/YifanWang-Lingf/VisReason).</sub>
 
 
 ## 👀 Overview
