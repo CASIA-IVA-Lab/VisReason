@@ -30,7 +30,7 @@ Our evaluation shows that VisReason poses a qualitatively different challenge fr
 
 The full dataset description, field definitions, and download instructions will be provided on Hugging Face.
 
-Hugging Face:
+Hugging Face: https://huggingface.co/datasets/CASIA-IVA-Lab/VisReason
 
 ## 🗂️ Repository Structure
 
