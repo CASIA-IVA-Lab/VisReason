@@ -6,14 +6,14 @@ This repository provides the official code and evaluation tools for VisReason, i
 
 - **[2026-05-23]** We have organized and released the inference and evaluation scripts.
 - **[2026-05-23]** We provide examples for both API-based inference and vLLM-based local inference.
-
+- **[2026-05-23]** We have released the full VisReason dataset on Hugging Face.
 
 ## ✅ TODO
 
-- Release the full dataset on Hugging Face.
 - Add the paper link.
 - Add citation information.
 - Add license information.
+- Add continual benchmark updates
 
 <sub>This repository hosts the stable official release. For the testing version, please visit [YifanWang-Lingf/VisReason](https://github.com/YifanWang-Lingf/VisReason).</sub>
 
@@ -28,9 +28,8 @@ Our evaluation shows that VisReason poses a qualitatively different challenge fr
 
 ## 📦 Dataset
 
-The full dataset description, field definitions, and download instructions will be provided on Hugging Face.
+The full dataset description, field definitions, and download instructions will be provided on [Hugging Face](https://huggingface.co/datasets/CASIA-IVA-Lab/VisReason).
 
-Hugging Face: https://huggingface.co/datasets/CASIA-IVA-Lab/VisReason
 
 ## 🗂️ Repository Structure
 
