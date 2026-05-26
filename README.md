@@ -1,5 +1,7 @@
 # Can MLLMs Reason Beyond Language? VisReason: A Comprehensive Benchmark for Vision-Centric Reasoning
 
+This repository provides the official code and evaluation tools for VisReason, including dataset indexing, API and vLLM inference scripts, automatic judging, and result summarization. (ACL 2026 Findings)
+
 <p align="center">
   <a href="https://huggingface.co/datasets/CASIA-IVA-Lab/VisReason">
     <img src="https://img.shields.io/badge/Dataset-Hugging%20Face-ffcc4d?style=for-the-badge&logo=huggingface&logoColor=white" alt="Dataset">
@@ -10,7 +12,7 @@
   </a>
 </p>
 
-This repository provides the official code and evaluation tools for VisReason, including dataset indexing, API and vLLM inference scripts, automatic judging, and result summarization. (ACL 2026 Findings)
+
 
 ## 📢 News
 
