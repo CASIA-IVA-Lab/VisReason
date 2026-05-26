@@ -7,7 +7,7 @@ This repository provides the official code and evaluation tools for VisReason, i
     <img src="https://img.shields.io/badge/Dataset-Hugging%20Face-ffcc4d?style=for-the-badge&logo=huggingface&logoColor=white" alt="Dataset">
   </a>
   &nbsp;
-  <a href="https://arxiv.org/abs/2605.10187">
+  <a href="https://arxiv.org/abs/2605.25364">
     <img src="https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper">
   </a>
 </p>
