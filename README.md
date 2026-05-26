@@ -22,7 +22,6 @@ This repository provides the official code and evaluation tools for VisReason, i
 
 ## ✅ TODO
 
-- Add the paper link.
 - Add citation information.
 - Add license information.
 - Add continual benchmark updates
