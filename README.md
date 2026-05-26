@@ -3,11 +3,11 @@
 This repository provides the official code and evaluation tools for VisReason, including dataset indexing, API and vLLM inference scripts, automatic judging, and result summarization. (ACL 2026 Findings)
 
 <p align="center">
-  <a href="https://huggingface.co/datasets/Lingfengtingyumian/VisReason">
+  <a href="https://huggingface.co/datasets/CASIA-IVA-Lab/VisReason">
     <img src="https://img.shields.io/badge/Dataset-Hugging%20Face-ffcc4d?style=for-the-badge&logo=huggingface&logoColor=white" alt="Dataset">
   </a>
   &nbsp;
-  <a href="https://arxiv.org/abs/xxxx.xxxxx">
+  <a href="https://arxiv.org/abs/2605.10187">
     <img src="https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper">
   </a>
 </p>
