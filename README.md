@@ -16,6 +16,7 @@ This repository provides the official code and evaluation tools for VisReason, i
 
 ## 📢 News
 
+- **[2026-07-17]** We have added the paper bib (ACL).
 - **[2026-05-26]** We have added the paper link (arXiv).
 - **[2026-05-23]** We have organized and released the inference and evaluation scripts.
 - **[2026-05-23]** We provide examples for both API-based inference and vLLM-based local inference.
@@ -28,7 +29,6 @@ This repository provides the official code and evaluation tools for VisReason, i
 - Add license information.
 - Add continual benchmark updates
 
-<sub>This repository hosts the stable official release. For the testing version, please visit [YifanWang-Lingf/VisReason](https://github.com/YifanWang-Lingf/VisReason).</sub>
 
 
 ## 👀 Overview
