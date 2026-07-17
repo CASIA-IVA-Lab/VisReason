@@ -295,7 +295,30 @@ results/<model>/summary.json
 ## 📝 Citation
 
 ```bibtex
-
+@inproceedings{guo-etal-2026-mllms,
+    title = "Can {MLLM}s Reason Beyond Language? {V}is{R}eason: A Comprehensive Benchmark for Vision-Centric Reasoning",
+    author = "Guo, Longteng  and
+      Wang, Yifan  and
+      Huo, Pengkang  and
+      Chen, Tailai  and
+      Wu, Yuze  and
+      Liu, Jing  and
+      Zhu, Xinxin",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {ACL} 2026",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-acl.1996/",
+    doi = "10.18653/v1/2026.findings-acl.1996",
+    pages = "40149--40192",
+    ISBN = "979-8-89176-395-1",
+    abstract = "Recent multimodal large language models (MLLMs) achieve strong performance on visual reasoning benchmarks, yet it remains unclear to what extent such performance reflects reasoning directly grounded in visual evidence. We introduce VisReason, a benchmark for vision-centric reasoning in everyday scenarios where perception and inference are tightly coupled. VisReason contains 1,505 questions across 10 categories spanning perceptual, structural, and conceptual reasoning. Our evaluation shows that VisReason poses a qualitatively different challenge from existing benchmarks, exposing substantial gaps between humans and current MLLMs and revealing limited benefits from test-time reasoning strategies. VisReason offers a focused diagnostic for evaluating vision-centric reasoning beyond language."
+}
 ```
 
 ## 📄 License
